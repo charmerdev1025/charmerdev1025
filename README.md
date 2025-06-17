@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Seven Charmer!
+A passionate Full Stack Developer from FL
 
-<!--
-**charmerdev1025/charmerdev1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- 🔧 Languages: JavaScript, Python, PHP, TypeScript, C#
+- 🌐 Web: React, Vue, Laravel, Node.js, Express
+- ☁️ Cloud: AWS, Heroku, Firebase
+- 💾 Databases: MySQL, PostgreSQL, MongoDB
 
-Here are some ideas to get you started:
+## 🔥 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=charmerdev1025&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 Email: charmerweb1025@gmail.com
+
