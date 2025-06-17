@@ -2,13 +2,11 @@
 A passionate Full Stack Developer from FL
 
 ## 🚀 Skills
-- 🔧 Languages: JavaScript, Python, PHP, TypeScript, C#
-- 🌐 Web: React, Vue, Laravel, Node.js, Express
+- 🔧 Languages: JavaScript, Python, PHP, TypeScript, C#, .NET, React/Next.JS, HTML5/CSS3
+- 🌐 Web: React, Vue, Laravel, Node.js, Express, Wordpress, Shopify
 - ☁️ Cloud: AWS, Heroku, Firebase
 - 💾 Databases: MySQL, PostgreSQL, MongoDB
 
-## 🔥 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=charmerdev1025&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
