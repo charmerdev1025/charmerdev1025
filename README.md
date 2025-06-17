@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Seven Charmer!
+
+<h3 align="center">🚀 Passionate Software Engineer | Full Stack Developer | Cloud Enthusiast</h3>
+
 Innovative software developer with experience in designing, developing, and implementing software solutions to address complex business issues. Skilled in multiple programming languages and frameworks, with a strong ability to adapt to new technologies quickly. Demonstrated success in improving system performance and enhancing functionality through strategic updates and modifications. Committed to collaborating closely with team members to achieve project goals and meet deadlines efficiently.
 
 <h3 align="left">Languages and Tools:</h3>
